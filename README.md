@@ -9,8 +9,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1.Import numpy package as np
+
 2.From scipy package import lu
+
 3.Get input from the user
+
 4.Print result
 
 ## Program:
